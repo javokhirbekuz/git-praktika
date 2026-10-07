@@ -1,1 +1,1 @@
-# MAIN branch'dan boshqacha sarlavha
+# Birlashtirilgan sarlavha - conflict hal qilindi
